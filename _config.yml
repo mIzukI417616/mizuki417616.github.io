@@ -1,0 +1,8 @@
+title: 幻妖庵 (げんようあん)
+description: 妖怪データベースと怪談の記録
+theme: minima
+
+collections:
+  database:
+    output: true
+    permalink: /database/:path/
